@@ -1,0 +1,25 @@
+.nf-page {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  min-height: 100vh;
+  padding-top: 30px;
+  padding-bottom: 50px;
+}
+
+.not-found-img {
+  width: 400px;
+  margin: 10px;
+}
+
+.nf-heading {
+  font-size: 42px;
+  color: gray;
+  line-height: 0;
+}
+
+.nf-p {
+  font-size: 26px;
+  color: lightslategray;
+  line-height: 0;
+}
